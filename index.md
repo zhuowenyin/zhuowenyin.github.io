@@ -5,4 +5,4 @@ title: Home
 
 ## This is Zhuowen Yin's homepage.
 
-My homepage is under construction :)
+I'm updating my homepage :)
