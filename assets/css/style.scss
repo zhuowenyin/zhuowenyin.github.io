@@ -2,3 +2,18 @@
 ---
 
 @import "jekyll-theme-minimal";
+
+@media print, screen and (min-width: 960px) {
+  
+  header {
+    width: 200px; 
+  }
+  
+  section {
+    width: 600px;
+  }
+}
+
+header a {
+  color: #007bff;
+}
