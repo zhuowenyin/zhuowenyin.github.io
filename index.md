@@ -11,11 +11,19 @@ I use deep learning, dynamical system, and information theory tools to study sle
 
 ## Education
 
-**Aug. 2024 - Present** Ph.D. in Bioengineering, University of Pennsylvania
+**Aug. 2024 - Present** 
 
-**Aug. 2022 - May 2024** M.S.E. in Bioengineering, University of Pennsylvania
+Ph.D. in Bioengineering, University of Pennsylvania
 
-**Sep. 2018 - Jun. 2022** B.E. in Information Engineering, South China University of Technology
+**Aug. 2022 - May 2024** 
 
+M.S.E. in Bioengineering, University of Pennsylvania
+
+**Sep. 2018 - Jun. 2022** 
+
+B.E. in Information Engineering, South China University of Technology
+
+
+---
 
 I'm updating my homepage :)
