@@ -41,3 +41,9 @@ header img {
   margin: 0 auto 20px auto;
   display: block;
 }
+
+section p,
+section li {
+  text-align: justify;
+  text-justify: inter-word;
+}
