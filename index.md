@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-## About me {: #about}
+## <h2 id="about">About me</h2>
 
 Hello! I'm a Bioengineering PhD student at the University of Pennsylvania. I'm curious about biological intelligence.
 
@@ -11,7 +11,7 @@ I use deep learning, dynamical system, and information theory tools to study sle
 
 ---
 
-## Education {: #education}
+## <h2 id="education">Education</h2>
 
 **Aug. 2024 - Present** 
 
@@ -31,7 +31,7 @@ Academic Advisor: Prof. Xin Zhang
 
 ---
 
-## Selected Publications {: #publications}
+## <h2 id="publications">Selected Publications</h2>
 (\* Indicates Equal Contribution)
 
 **Yin, Z.**, Ding, X., Zhang, X., Wu, Z., Wang, L., & Li, G. (2024). Early Autism Diagnosis based on Path Signature and Siamese Unsupervised Feature Compressor. 
