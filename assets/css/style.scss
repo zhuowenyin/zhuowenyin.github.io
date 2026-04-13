@@ -80,7 +80,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #555 !important;
   text-decoration: none !important;
   border: 1px solid transparent;
-  border-radius: 6px;
+  border-radius: 2px;
   text-align: center;
   font-size: 0.95em;
   transition: all 0.1s ease-in-out;
@@ -88,7 +88,6 @@ h1, h2, h3, h4, h5, h6 {
 
 .page-nav .nav-btn:hover {
   background-color: #f0f4f8;
-  border-color: #e1e4e8;
   color: #0366d6 !important;
   -webkit-text-stroke: 0.5px currentColor;
   transform: translateY(-2px);
