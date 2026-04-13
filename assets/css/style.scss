@@ -47,3 +47,8 @@ section li {
   text-align: justify;
   text-justify: inter-word;
 }
+
+a:hover {
+  font-weight: normal !important;
+  -webkit-text-stroke: 0.5px currentColor;
+}
