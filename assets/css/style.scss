@@ -53,8 +53,8 @@ a:hover {
   text-decoration: underline !important;
 }
 
-html, body {
-  scroll-behavior: smooth !important;
+html {
+  scroll-behavior: smooth;
 }
 
 .social-links {
@@ -66,11 +66,17 @@ h1, h2, h3, h4, h5, h6 {
   scroll-margin-top: 30px;
 }
 
+header {
+  display: flex;
+  flex-direction: column;
+  height: calc(100vh - 100px);
+}
+
 .page-nav {
   display: flex;
   flex-direction: column;
   gap: 12px;
-  margin-top: 60px;
+  margin-top: auto;
 }
 
 .page-nav .nav-btn {
@@ -83,13 +89,13 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 2px;
   text-align: center;
   font-size: 0.95em;
-  transition: all 0.1s ease-in-out;
+  transition: all 0.05s ease-in-out;
 }
 
 .page-nav .nav-btn:hover {
   background-color: #f0f4f8;
   color: #0366d6 !important;
-  -webkit-text-stroke: 0.5px currentColor;
-  transform: translateY(-2px);
+  font-weight: bold;
+  transform: translateY(-1px);
   box-shadow: 0 4px 8px rgba(0,0,0,0.05);
 }
