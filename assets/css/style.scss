@@ -50,6 +50,9 @@ section li {
 
 a:hover {
   font-weight: normal !important;
-  -webkit-text-stroke: 0.2px currentColor;
   text-decoration: underline !important;
+}
+
+html {
+  scroll-behavior: smooth; /* 开启平滑滚动 */
 }
