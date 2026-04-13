@@ -54,15 +54,17 @@ a:hover {
 }
 
 html {
-  scroll-behavior: smooth;
+  scroll-behavior: smooth !important;
 }
 
 .social-links {
-  list-style-type: none;
   padding-left: 0;
   margin-bottom: 30px;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  scroll-margin-top: 80px;
+}
 
 .page-nav {
   display: flex;
@@ -73,21 +75,21 @@ html {
 .page-nav .nav-btn {
   display: block;
   padding: 10px 15px;
-  background-color: #f8f9fa;
-  color: #333 !important;
+  background-color: transparent;
+  color: #555 !important;
   text-decoration: none !important;
-  border: 1px solid #e1e4e8;
+  border: 1px solid transparent;
   border-radius: 6px;
   text-align: center;
-  font-weight: bold;
   font-size: 0.95em;
-  transition: all 0.2s ease-in-out;
+  transition: all 0.3s ease-in-out;
 }
 
 .page-nav .nav-btn:hover {
-  background-color: #0366d6;
-  color: #ffffff !important;
-  border-color: #0366d6;
+  background-color: #f0f4f8;
+  border-color: #e1e4e8;
+  color: #0366d6 !important;
+  -webkit-text-stroke: 0.5px currentColor;
   transform: translateY(-2px);
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1); 
+  box-shadow: 0 4px 8px rgba(0,0,0,0.05);
 }
