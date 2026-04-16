@@ -58,24 +58,6 @@
         });
       });
 
-      document.querySelectorAll('details').forEach(detail => {
-        let isClicked = false;
-        detail.addEventListener('mouseenter', () => {
-          if (!isClicked) detail.open = true;
-        });
-        detail.addEventListener('mouseleave', () => {
-          if (!isClicked) detail.open = false;
-        });
-        const summary = detail.querySelector('summary');
-        if (summary) {
-          summary.addEventListener('click', (e) => {
-            if (e.target.tagName === 'A' || e.target.closest('a')) return;
-            e.preventDefault();
-            isClicked = !isClicked;
-            detail.open = isClicked;
-          });
-        }
-      });
     </script>
   </body>
 </html>
