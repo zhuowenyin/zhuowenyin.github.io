@@ -108,12 +108,8 @@ details summary {
   list-style: none; /* Hide default triangle in modern browsers */
 }
 
-details summary:hover .pub-title {
+.pub-title:hover {
   text-decoration: underline;
-}
-
-details:hover:not([open]) blockquote {
-  display: block;
 }
 
 details summary::-webkit-details-marker {
