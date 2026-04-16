@@ -36,7 +36,7 @@ Academic Advisor: Prof. Xin Zhang
 
 <details style="margin-bottom: 15px;">
 <summary style="cursor: pointer;">Hao, L.*, Woolley, J.*, <strong>Yin, Z.*</strong>, Jin, X., Stucynski, J., Ortega, R. A. S., ... &amp; Weber, F. (2026). Heart rate and sleep history encode ultradian REM sleep timing. <a href="https://www.cell.com/current-biology/fulltext/S0960-9822(26)00167-3"><em>Current Biology</em></a>.</summary>
-<blockquote style="margin-top: 10px; margin-bottom: 15px; color: #20662b;">
+<blockquote style="margin-top: 10px; margin-bottom: 15px;">
 Rapid Eye Movement (REM) sleep is a sleep stage we enter during sleep, and for humans it is when vivid dreams happen. How is the brain functioning dynamically to alternate between REM and non-REM sleep? By combining the analysis of neural network features and mice experiments, we found that heart rate is a physiological marker of REM sleep timing. Manually increasing heart rate lowers the pressure to enter REM, and vice versa. 
 </blockquote>
 </details>
