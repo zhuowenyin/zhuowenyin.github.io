@@ -108,6 +108,10 @@ details summary {
   list-style: none; /* Hide default triangle in modern browsers */
 }
 
+details summary:hover {
+  text-decoration: underline;
+}
+
 details summary::-webkit-details-marker {
   display: none; /* Hide default triangle in Safari */
 }
